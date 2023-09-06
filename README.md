@@ -88,12 +88,18 @@ main.py
 
 ## Dependências
 
--   numpy
--   opencv-python
--   packaging
--   Pillow
--   pytesseract
--   tesseract-ocr
+-   **numpy**
+    -   É uma biblioteca de código aberto que fornece uma alta velocidade de computação de matrizes e arrays.
+-   **opencv-python**
+    -   É um wrapper para o pacote de código aberto de visão computacional e processamento de imagens OpenCV.
+-   **packaging**
+    -   É uma biblioteca para criar, gerenciar e distribuir pacotes Python. Ela fornece uma estrutura para criar, instalar, atualizar e remover pacotes Python.
+-   **pillow**
+    -   É uma biblioteca de imagem Python que fornece uma ampla gama de recursos para trabalhar com imagens. Ela pode ser usada para carregar, salvar, manipular, converter e exibir imagens.
+-   **pytesseract**
+    -   É um wrapper para o mecanismo de reconhecimento óptico de caracteres (OCR) Tesseract. Ele fornece uma API Python para acessar as funcionalidades do Tesseract.
+-   **tesseract-ocr**
+    -   é um mecanismo de OCR de código aberto que pode ser usado para reconhecer texto de imagens.
 
 ## Funcionalidade
 
