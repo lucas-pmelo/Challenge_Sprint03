@@ -1,0 +1,62 @@
+{
+    "clientes": [
+        {
+            "id": 1,
+            "nome": "Lucas Melo",
+            "cpf": 1,
+            "email": "lucas@gmail.com",
+            "telefone": 1196212,
+            "endereco": "Rua X",
+            "cidade": "S\u00e3o Paulo",
+            "estado": "SP",
+            "cep": 42,
+            "data_nascimento": "22/06/00",
+            "bikes": [
+                {
+                    "marca": "Caloi",
+                    "modelo": "Muito Chave",
+                    "valor": 2000000000.0,
+                    "ano": 1990,
+                    "cor": "Preto",
+                    "n_serie": 99,
+                    "foto": "reconhecimento_IA/bicicleta.jpg",
+                    "foto_validada": true
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Mega",
+            "cpf": 2,
+            "email": "mega@gmail",
+            "telefone": 1196924,
+            "endereco": "Rua Y",
+            "cidade": "S\u00e3o Paulo",
+            "estado": "SP",
+            "cep": 42,
+            "data_nascimento": "26/11/01",
+            "bikes": [
+                {
+                    "marca": "Monark",
+                    "modelo": "2010",
+                    "valor": 2.0,
+                    "ano": 1944,
+                    "cor": "Cinza",
+                    "n_serie": 12,
+                    "foto": "reconhecimento_IA/dog.jpg",
+                    "foto_validada": true
+                },
+                {
+                    "marca": "Caloi",
+                    "modelo": "Bacana",
+                    "valor": 200.0,
+                    "ano": 1990,
+                    "cor": "Azul",
+                    "n_serie": "WSBC60",
+                    "foto": "reconhecimento_IA/numero_serie.jpg",
+                    "foto_validada": "reconhecimento_IA/dog.jpg"
+                }
+            ]
+        }
+    ]
+}
