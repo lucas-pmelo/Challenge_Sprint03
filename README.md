@@ -45,7 +45,7 @@ reconhecimento_IA/NOME_DA_IMAGEM
 ### 1. Clone o repositório do projeto ou baixe os arquivos do zip:
 
 ```
-git clone https://github.com/lucas-pmelo/gs_python.git
+git clone https://github.com/lucas-pmelo/Challenge_Sprint03
 ```
 
 ### 2. Instale a OCR para identificar texto em imagens:
