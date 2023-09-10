@@ -1,4 +1,4 @@
-# Global Solution - **O2Future**
+# Sprint 03 - **O2Future**
 
 -   Computational Thinking Using Python
 
